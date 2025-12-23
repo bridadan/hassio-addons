@@ -10,9 +10,9 @@ addons:
     target: yarr
     image: ghcr.io/einschmidt/yarr/{arch}
   freshrss:
-    repository: einschmidt/addon-freshrss
+    repository: bridadan/addon-freshrss
     target: freshrss
-    image: ghcr.io/einschmidt/freshrss/{arch}
+    image: ghcr.io/bridadan/freshrss/{arch}
   pocket-id:
     repository: einschmidt/addon-pocket-id
     target: pocket-id
